@@ -22,7 +22,7 @@ The Phone Price Prediction project aims to classify mobile phones into different
 - Tested multiple machine learning models, including:
   - **Decision Tree Classifier (DT)**
   - **Random Forest Classifier (RF)**
-  - **Support Vector Classifier (SVC)**
+  - **Support Vector Machine (SVM)**
 - Optimized hyperparameters using `GridSearchCV` and `RandomizedSearchCV` for better performance.
 
 #### Model Evaluation
