@@ -1,5 +1,5 @@
-[![](Image.jpg)](https://unsplash.com/photos/black-android-smartphone-on-black-textile-3PyBkxgTiL0)
 ## Phone Price Prediction
+[![](Image.jpg)](https://unsplash.com/photos/black-android-smartphone-on-black-textile-3PyBkxgTiL0)
 
 ### Overview
 The Phone Price Prediction project aims to classify mobile phones into different price ranges based on their technical specifications. Using machine learning algorithms, the project evaluates features like battery power, RAM, processor cores, and more to predict the price category of a phone. This repository demonstrates data preprocessing, feature selection, and model optimization techniques to achieve accurate predictions.
